@@ -1,4 +1,4 @@
-# PlanetaryAnalogAl# PlanetaryAnalogAI: Blind Discovery of Lunar & Martian Analog Sites on Earth
+# PlanetaryAnalogAI: Blind Discovery of Lunar & Martian Analog Sites on Earth
 
 **PlanetaryAnalogAI** is an end-to-end multispectral remote sensing and machine learning pipeline designed to automatically identify and characterize high-priority **Lunar** and **Martian** planetary analog sites on Earth without prior labeling (*"Blind Discovery"*).
 
@@ -31,4 +31,4 @@ Pixel-level probability maps were validated in **QGIS** against high-resolution 
 
 | Levent Vadisi (Lunar Probability) | Karanlık Kanyon (Lunar Probability) |
 | :---: | :---: |
-| ![Levent Vadisi Map](levent_vadisi_moon_map.png) | ![Karanlık Kanyon Map](karanlik_kanyon_moon_map.png) |
+| ![Levent Vadisi Map](Levent_vadisi_moon_map.png) | ![Karanlık Kanyon Map](karanlık_kanyon.png) |
