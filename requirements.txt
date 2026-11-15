@@ -1,0 +1,16 @@
+numpy
+pandas
+scipy
+scikit-learn
+rasterio
+geopandas
+pyproj
+shapely
+matplotlib
+joblib
+pystac-client
+requests
+pyyaml
+streamlit
+plotly
+leafmap
